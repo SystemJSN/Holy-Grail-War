@@ -1,5 +1,5 @@
 # Holy-Grail-War
-A 3D third-person shooting game
+A 3D third-person shooting game developed with Blender.
 
 Game webpage: https://sites.google.com/a/brandeis.edu/holygrailwar/home
 
